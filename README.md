@@ -35,7 +35,8 @@ sudo usermod -aG docker $USER
 # Chạy thử Docker
 docker run hello-world
 
-# Chỉnh sửa quyền và khởi động lại Docker
+# Chỉnh sửa quyền và khởi động lại Docker ( Nếu như có lỗi xảy ra )
+# Bỏ qua bước này nếu đã cài đặt thành công.
 sudo chown root:docker /var/run/docker.sock
 sudo systemctl restart docker
 docker run hello-world
