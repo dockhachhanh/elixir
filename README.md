@@ -1,16 +1,16 @@
-Hướng dẫn cài đặt node Elixir Testnet V3
+# Hướng dẫn cài đặt node Elixir Testnet V3
 
-Tham gia cộng đồng Elixir:
+## Tham gia cộng đồng Elixir:
+- Discord dự án: [https://discord.gg/VT4xvrs9](https://discord.gg/VT4xvrs9)
+- X: [https://x.com/elixir](https://x.com/elixir)
+- Docs dự án: [https://docs.elixir.xyz/running-an-elixir-validator](https://docs.elixir.xyz/running-an-elixir-validator)
 
-Discord dự án: https://discord.gg/VT4xvrs9
-X: https://x.com/elixir
-Docs dự án: https://docs.elixir.xyz/running-an-elixir-validator
-Tham gia cộng đồng Node Miner:
+## Tham gia cộng đồng Node Miner:
+- Discord Node Miner: [https://discord.gg/44B8pt4tSM](https://discord.gg/44B8pt4tSM)
 
-Discord Node Miner: https://discord.gg/44B8pt4tSM
-Các lệnh sử dụng trong video:
-bash
-```
+## Các lệnh sử dụng trong video:
+
+```bash
 # Cập nhật và nâng cấp hệ thống
 sudo apt update
 sudo apt upgrade -y
@@ -57,15 +57,15 @@ docker run -d \
   -p 17697:17690 \
   elixirprotocol/validator:v3
 ```
-Link một số sàn giao dịch dành cho các bạn người mới:
-
-Binance: https://t.co/27zkGLNNMR
-Bybit: https://t.co/GJtrEgeezb
-Kucoin: https://t.co/RzeBEpni1v
-Okx: https://t.co/VFwr3RZazp
-Mexc: https://t.co/qfFjzlaU2c
-Donate for me:
-
-ETH-USDT-USDC: 0x9eb472eb5314e874dd4d642e6bb833c6b1296272
-BTC: bc1pz5jcrtkg22rd3t6gnaxmc3fcgfkm98rz4dl84txesded20s4y0fsn0rggt
-Hãy chắc chắn bạn đã tham gia Discord của dự án và theo dõi kênh X của Elixir để cập nhật những thông tin mới nhất. Nếu có bất kỳ câu hỏi nào, hãy để lại bình luận bên dưới!
+### Link một số sàn giao dịch dành cho các bạn người mới:
+- Binance: https://t.co/27zkGLNNMR
+- Bybit: https://t.co/GJtrEgeezb
+- Kucoin: https://t.co/RzeBEpni1v
+- Okx: https://t.co/VFwr3RZazp
+- Mexc: https://t.co/qfFjzlaU2c
+  
+#### Donate for me:
+- ETH-USDT-USDC: 0x9eb472eb5314e874dd4d642e6bb833c6b1296272
+- BTC: bc1pz5jcrtkg22rd3t6gnaxmc3fcgfkm98rz4dl84txesded20s4y0fsn0rggt
+  
+##### Hãy chắc chắn bạn đã tham gia Discord của dự án và theo dõi kênh X của Elixir để cập nhật những thông tin mới nhất. Nếu có bất kỳ câu hỏi nào, hãy để lại bình luận bên dưới!
